@@ -36,3 +36,4 @@ En este proyecto se buscara crear un bote de basura inteligente originalmente po
 ## Prototipo en dibujo
 - Coloca la fotografia de tu prototipo dibujado a lapiz
 
+![20221001_112407](https://user-images.githubusercontent.com/99992446/193419088-dc0ba732-f787-4e16-8fe5-87fccade3bfa.jpg)
